@@ -1,0 +1,102 @@
+[
+    {
+      "name": "Thomas Cruise Mapother IV",
+      "born": "Syracuse, New York, U.S",
+      "img": "https://images.mubicdn.net/images/cast_member/2184/cache-2992-1547409411/image-w856.jpg",
+      "occupation": "Actor , Producer",
+      "film": 73,
+      "networth": 600000000,
+      "charge": 25000000,
+      "key": 1
+    },
+    {
+      "name": "Jeffrey Jacob Abrams",
+      "born": "New York City, U.S.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J.J._Abrams_by_David_Shankbone.jpg/220px-J.J._Abrams_by_David_Shankbone.jpg",
+      "occupation": "Director , producer",
+      "film": 12,
+      "networth": 300000000,
+      "charge": 29000000,
+      "key": 2
+    },
+    {
+      "name": "Christopher McQuarrie",
+      "born": "Princeton, New Jersey, US",
+      "img": "https://www.pinkvilla.com/files/styles/fbimagesection/public/Christopher_McQuarrie_0.jpg",
+      "occupation": "Film director",
+      "film": 15,
+      "networth": 30000000,
+      "charge": 51000000,
+      "key": 3
+    },
+    {
+      "name": "Lorne Balfe",
+      "born": "Scotland",
+      "img": "https://p16.resso.me/img/tos-alisg-i-0000/01d7b815c4e1462fae66d6963d71f3e2~c5_500x500.jpg",
+      "occupation": "Music producer",
+      "film": 52,
+      "networth": 1400000,
+      "charge": 5000000,
+      "key": 4
+    },
+    {
+      "name": "Josh Appelbaum",
+      "born": "United States",
+      "img": "https://resizing.flixster.com/hnkuqTWsjlqWoRkCLJy8yaaumwM=/fit-in/1152x864/v2/https://flxt.tmsimg.com/v9/AllPhotos/284998/284998_v9_ba.jpg",
+      "occupation": "Screenwriter",
+      "film": 6,
+      "networth": 10000000,
+      "charge": 1000000,
+      "key": 5
+    },
+    {
+      "name": "Simon Pegg",
+      "born": "Brockworth, England",
+      "img": "https://thumbs.dreamstime.com/b/simon-pegg-los-angeles-ca-august-los-angeles-premiere-his-movie-world-s-end-cinerama-dome-hollywood-46066939.jpg",
+      "occupation": "Actor , comedianr",
+      "film": 55,
+      "networth": 25000000,
+      "charge": 4800000,
+      "key": 6
+    },
+    {
+      "name": "Rebecca Ferguson",
+      "born": "Stockholm, Sweden",
+      "img": "https://m.media-amazon.com/images/M/MV5BNzA4NDA1MTA5NV5BMl5BanBnXkFtZTcwNjMyNTQ3OA@@._V1_UY1200_CR112,0,630,1200_AL_.jpg",
+      "occupation": "Actress",
+      "film": 25,
+      "networth": 6000000,
+      "charge": 2000000,
+      "key": 7
+    },
+    {
+      "name": "Jeremy Renner",
+      "born": "Modesto, California, U.S",
+      "img": "https://www.indiewire.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-05-at-11.42.34-AM.png",
+      "occupation": "Actor",
+      "film": 38,
+      "networth": 80000000,
+      "charge": 6000000,
+      "key": 8
+    },
+    {
+      "name": "Ving Rhames",
+      "born": "Harlem, New York, U.S",
+      "img": "https://staticimg.spicyonion.com/images/profile/person/ving-rhames/8nS83GOu0iqxjL2Oj2DgwkAceFQ.jpg",
+      "occupation": "Actor",
+      "film": 103,
+      "networth": 25000000,
+      "charge": 7700000,
+      "key": 9
+    },
+    {
+      "name": "Alec Baldwin",
+      "born": "Amityville, New York, U.S",
+      "img": "https://deadline.com/wp-content/uploads/2021/01/MEGA498114_024-e1611013915826.jpg",
+      "occupation": "Actor",
+      "film": 88,
+      "networth": 80000000,
+      "charge": 300000,
+      "key": 10
+    }
+  ]
