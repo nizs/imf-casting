@@ -1,0 +1,24 @@
+.assigned {
+    color: floralwhite;
+}
+.assigned span {
+    color: lightcoral;
+}
+.gotAssigned {
+    background-color: #f080808c;
+    border-radius: 7px;
+    padding: 20px 0px;
+    margin: 10px 30px;
+    color: floralwhite;
+}
+.gotAssigned img {
+    width: 70px;
+    border-radius: 7px;
+}
+
+/* responsive */
+@media screen and (max-width: 768px){
+    .gotAssigned {
+      margin: 10px 10px;
+    }
+  }

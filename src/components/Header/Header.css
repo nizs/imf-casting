@@ -6,3 +6,22 @@
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
 }
+
+.header-container p{
+    color: lightcoral;
+    font-weight: 600;
+    font-size: large;
+}
+
+
+/* responsive */
+@media screen and (max-width: 425px){
+    .header-container {
+      padding: 1px 3px;
+    }
+}
+@media screen and (max-width: 375px){
+    .header-container {
+      padding: 1px 6px;
+    }
+}

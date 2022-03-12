@@ -9,3 +9,18 @@
     grid-template-columns: repeat(3 , 1fr);
     grid-gap: 10px;
 }
+
+/* responsive */
+@media screen and (max-width: 768px){
+    .casts-container {
+        grid-template-columns: repeat(2 , 1fr);
+    }
+}
+@media screen and (max-width: 425px){
+    .imf-container {
+        grid-template-columns:auto;
+    }
+    .casts-container {
+        grid-template-columns: auto;
+    }
+}

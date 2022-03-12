@@ -11,7 +11,7 @@ const {name , img , born , occupation , film , networth, charge} = props.cast;
                 <p><span>Film</span> : {film}</p>
                 <p><span>Networth</span> : ${networth}</p>
                 <p><span>Charge</span> : ${charge}</p>
-                <button type="button">Assign</button>
+                <button onClick={ () => props.handleAssign(props.cast)} type="button">Assign</button>
             </div>
     );
 };

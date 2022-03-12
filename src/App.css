@@ -17,7 +17,7 @@ body {
   right: 0;
   bottom: 0;
   z-index: -1;
-  background-color: rgba(0,0,0,0.6); /* Black background with opacity */
+  background-color: rgba(0,0,0,0.7); /* Black background with opacity */
 }
 .App {
   text-align: center;
@@ -55,5 +55,21 @@ body {
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+
+/* responsive */
+@media screen and (max-width: 768px){
+  .container {
+    padding: 0px 30px;
+  }
+  .gotAssigned {
+    margin: 10px 10px;
+  }
+}
+@media screen and (max-width: 425px){
+  .container {
+    padding: 0px 20px;
   }
 }
