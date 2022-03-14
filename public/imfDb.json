@@ -26,7 +26,7 @@
       "occupation": "Film director",
       "film": 15,
       "networth": 30000000,
-      "charge": 51000000,
+      "charge": 5100000,
       "key": 3
     },
     {
@@ -35,8 +35,8 @@
       "img": "https://p16.resso.me/img/tos-alisg-i-0000/01d7b815c4e1462fae66d6963d71f3e2~c5_500x500.jpg",
       "occupation": "Music producer",
       "film": 52,
-      "networth": 1400000,
-      "charge": 5000000,
+      "networth": 14000000,
+      "charge": 500000,
       "key": 4
     },
     {
@@ -56,7 +56,7 @@
       "occupation": "Actor , comedianr",
       "film": 55,
       "networth": 25000000,
-      "charge": 4800000,
+      "charge": 480000,
       "key": 6
     },
     {
@@ -66,7 +66,7 @@
       "occupation": "Actress",
       "film": 25,
       "networth": 6000000,
-      "charge": 2000000,
+      "charge": 200000,
       "key": 7
     },
     {
@@ -76,7 +76,7 @@
       "occupation": "Actor",
       "film": 38,
       "networth": 80000000,
-      "charge": 6000000,
+      "charge": 600000,
       "key": 8
     },
     {
@@ -86,7 +86,7 @@
       "occupation": "Actor",
       "film": 103,
       "networth": 25000000,
-      "charge": 7700000,
+      "charge": 770000,
       "key": 9
     },
     {

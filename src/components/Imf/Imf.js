@@ -1,10 +1,10 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
-import Assign from '../Assign/Assign';
-import Cast from '../Cast/Cast';
+import Assign from '../Assign/Assign'; // imported "assign" component
+import Cast from '../Cast/Cast';  // imported "cast" component
 import './Imf.css'
-const Imf = () => {
+const Imf = () => {                        // parent componet "Imf"
 const [casts , setCasts] = useState([]);
 const [assign , setAssign] = useState([]);
 useEffect( () => {
@@ -13,6 +13,7 @@ useEffect( () => {
     .then(data => setCasts(data))
 },[])
 
+// cast assigning btn function
 const handleAssign = apoint => {
     const newAssign = [...assign , apoint];
     setAssign(newAssign);

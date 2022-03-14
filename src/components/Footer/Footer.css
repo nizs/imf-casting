@@ -1,0 +1,9 @@
+.footer-container {
+    background-color: lightcoral;
+    border-radius: 7px;
+    color: floralwhite;
+}
+
+.footer-container p {
+    padding: 10px 0px;
+}

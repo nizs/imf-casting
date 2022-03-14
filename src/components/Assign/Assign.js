@@ -1,7 +1,6 @@
 import React from 'react';
 import './Assign.css'
 const Assign = props => {
-console.log(props.assign);
 const {assign} = props;
 let total = 0;
 for(const info of assign){
@@ -13,7 +12,8 @@ for(const info of assign){
             <h3><span>Total cost:</span> ${total} </h3>
             <div className="displayAssigned">
                     {
-                        assign.map(actor => <div className="gotAssigned">
+                        assign.map(actor => 
+                            <div className="gotAssigned">
                                 <img src={actor.img} alt="actor_img" />
                                 <p>{actor.name}</p>
                             </div>)

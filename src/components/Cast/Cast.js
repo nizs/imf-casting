@@ -1,6 +1,6 @@
 import React from 'react';
 import ('./Cast.css')
-const Cast = props => {
+const Cast = props => {        //Child component of Imf parent component..
 const {name , img , born , occupation , film , networth, charge} = props.cast;
     return (
         <div className="cast">
